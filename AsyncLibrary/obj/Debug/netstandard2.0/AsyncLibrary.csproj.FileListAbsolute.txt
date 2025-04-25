@@ -1,0 +1,10 @@
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\bin\Debug\netstandard2.0\AsyncLibrary.deps.json
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\bin\Debug\netstandard2.0\AsyncLibrary.dll
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\bin\Debug\netstandard2.0\AsyncLibrary.pdb
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.csproj.AssemblyReference.cache
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.AssemblyInfoInputs.cache
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.AssemblyInfo.cs
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.dll
+C:\Users\mredding\source\repos\DependencyRepro\AsyncLibrary\obj\Debug\netstandard2.0\AsyncLibrary.pdb

@@ -1,0 +1,5 @@
+C:\Users\mredding\source\repos\DependencyRepro\AsyncTest\obj\Release\net9.0\AsyncTest.csproj.AssemblyReference.cache
+C:\Users\mredding\source\repos\DependencyRepro\AsyncTest\obj\Release\net9.0\AsyncTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mredding\source\repos\DependencyRepro\AsyncTest\obj\Release\net9.0\AsyncTest.AssemblyInfoInputs.cache
+C:\Users\mredding\source\repos\DependencyRepro\AsyncTest\obj\Release\net9.0\AsyncTest.AssemblyInfo.cs
+C:\Users\mredding\source\repos\DependencyRepro\AsyncTest\obj\Release\net9.0\AsyncTest.csproj.CoreCompileInputs.cache
