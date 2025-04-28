@@ -1,4 +1,8 @@
 ﻿
+using BaseLibrary;
+using System.Collections.Generic;
+using System.Threading;
+
 namespace AsyncLibrary
 {
     public class CollectionClass : IAsyncEnumerable<object>
